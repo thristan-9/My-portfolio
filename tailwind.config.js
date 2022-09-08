@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {},
     fontFamily: {
-      signature: ["Roboto"],
+      signature: ["Roboto Mono"],
     }
   },
   plugins: [],
