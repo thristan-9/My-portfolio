@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/My-portfolio/static/css/main.b2652bbf.css",
+    "main.js": "/My-portfolio/static/js/main.b684a41f.js",
+    "static/media/mechanic_software.png": "/My-portfolio/static/media/mechanic_software.a5c9a41eacc62c0749de.png",
+    "static/media/mechanic_software3.png": "/My-portfolio/static/media/mechanic_software3.dc147dc04023cbca6559.png",
+    "static/media/mechanic_software2.png": "/My-portfolio/static/media/mechanic_software2.062d2c42d09b642197cb.png",
+    "static/media/digital_clock.png": "/My-portfolio/static/media/digital_clock.4d26c690c378bac9510a.png",
+    "static/media/animated_navbar_2.png": "/My-portfolio/static/media/animated_navbar_2.dcf12d908a4d8b382025.png",
+    "static/media/animated_navbar.png": "/My-portfolio/static/media/animated_navbar.0783c6301d14d540db37.png",
+    "static/media/react.png": "/My-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/thristan_img.jpeg": "/My-portfolio/static/media/thristan_img.807bc024e4739f23d84b.jpeg",
+    "static/media/node.png": "/My-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/My-portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/My-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/My-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/My-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/My-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/My-portfolio/index.html",
+    "main.b2652bbf.css.map": "/My-portfolio/static/css/main.b2652bbf.css.map",
+    "main.b684a41f.js.map": "/My-portfolio/static/js/main.b684a41f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2652bbf.css",
+    "static/js/main.b684a41f.js"
+  ]
+}
