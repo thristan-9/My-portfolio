@@ -20,14 +20,14 @@ function Home(props) {
                         <Link to='portfolio' smooth duration={500} className='group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r cursor-pointer from-orange-700 via-orange-600 to-orange-500'>
                             Portfolio
                             <span className='group-hover:rotate-90 duration-300'>
-                                <MdOutlineKeyboardArrowRight className='ml-1' size={25} /> 
+                                <MdOutlineKeyboardArrowRight className='ml-1' size={25} />
                             </span>
                         </Link>
                     </div>
                 </div>
 
                 <div>
-                    <img src={img} alt="thristan" className='rounded-2xl mx-auto w-2/3 md:w-full'/>
+                    <img src={img} alt="thristan" className='rounded-2xl mx-auto w-2/3 md:w-full' />
                 </div>
 
             </div>

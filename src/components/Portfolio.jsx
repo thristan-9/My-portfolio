@@ -50,7 +50,7 @@ function Portfolio() {
         let portfolioList = [...portfolio];
         let value = action == 'next' ? + 1 : - 1;
 
-        console.log("value",value);
+        console.log("value", value);
         portfolioList.map((item) => {
             if (item.id == id) {
                 if (item.images[item.imageIndex + value]) {
@@ -61,7 +61,7 @@ function Portfolio() {
         console.log("portfolioList", portfolioList);
         setPortfolio(portfolioList);
     }
-    
+
 
     return (
         <div name='portfolio' className='bg-gradient-to-b from-black via-black to-gray-800 text-white w-full md:h-screen'>

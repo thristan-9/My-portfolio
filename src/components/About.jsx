@@ -15,7 +15,7 @@ function About() {
                     My first contact with programming was when I was 15 years old as a intern in a startup called Clinicorp, in those years I was responsible for projects such as recurring billing, financial data import, redesign of screens and others. Nowadays I’m in a small team called Fintech at Clinicorp, using a Baas(Banking as a service) in the background of the project to deliver a complete financial solution to increase the revenue of our customers.
                 </p>
             </div>
-            
+
         </div>
     );
 }
