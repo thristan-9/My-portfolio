@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import thristan_img from '../assets/tailwind.png';
 import mechanicSoftware from '../assets/mechanic_software.png';
 import mechanicSoftware2 from '../assets/mechanic_software2.png';
 import mechanicSoftware3 from '../assets/mechanic_software3.png';
