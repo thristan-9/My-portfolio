@@ -12,7 +12,7 @@ function About() {
 
                 <p className='text-xl'>
                     Hello! my name is Thristan Gabriel, I’m  19 years old and i was born in Brasil.
-                    My first contact with programming was when I was 15 years old as a intern in a startup called Clinicorp, a Saas company that helps clinics self-manage, in these 4 years I was responsible for many projects such as subscription billing, financial data import, redesign of screens and others. Nowadays, I work at Clinicorp's Fintech, in our project we are using a Baas(Banking as a service) tech stack in the background of the project to deliver a complete financial solution to increase the revenue of our customers.
+                    My first contact with programming was when I was 15 years old as a intern in a startup called Clinicorp, a Saas company that helps clinics self-manage, in these 4 years I was responsible for many projects such as subscription billing, financial data import, redesign of screens and others. Nowadays, I work at Fintech team, in our project we are using a Baas(Banking as a service) in the background of the project to deliver a complete financial solution to increase the revenue of our customers.
                 </p>
             </div>
 
