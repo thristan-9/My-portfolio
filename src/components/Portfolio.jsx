@@ -75,7 +75,6 @@ function Portfolio() {
 
                 <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
                     {portfolio.map(({ id, imageIndex, images, codeHref, demoHref }) => {
-                        console.log("imageIndex", imageIndex);
                         return (
                             <div key={id} className="flex items-center flex-col justify-between shadow-md shadow-gray-600 rounded-lg">
                                 <img src={images[imageIndex].src} alt='' className='rounded-md h-1/2' />

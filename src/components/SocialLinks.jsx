@@ -28,7 +28,7 @@ function SocialLinks(props) {
         <div className='hidden xl:flex flex-col top-[35%] left-0 fixed'>
             <ul>
                 {links.map(({id, child, href, style}) => (
-                    <li key={id} className={`flex justify-between items-center w-40 h-14 px-4 bg-gray-500 hover:bg-orange-600 ml-[-100px] hover:ml-[-10px] hover:rounded-md duration-300 ${style}`}>
+                    <li key={id} className={`flex justify-between items-center w-40 h-14 px-4 bg-gray-500 hover:bg-emerald-600 ml-[-100px] hover:ml-[-10px] hover:rounded-md duration-300 ${style}`}>
                         <a rel="noreferrer" className={'flex justify-between w-full items-center text-white'} target="_blank" href={href}>
                             {child}
                         </a>
