@@ -1,5 +1,5 @@
 import React from "react";
-import qrCodeImg from '../assets/qrCode.png';
+import qrCode from '../assets/qrCode.png';
 import whatsImg from '../assets/whatsImg.png';
 
 function Contact() {
@@ -18,11 +18,11 @@ function Contact() {
                     </p>
                     <div className="flex">
                         Number: +55 (47)99237-1998
-                        <a rel="noreferrer" href="https://wa.link/16qptx" target="_blank">
+                        <a rel="noreferrer" href="https://wa.link/lzj3ih" target="_blank">
                             <img className="h-6 ml-2" src={whatsImg} alt="whatsImg"/>
                         </a> 
                     </div>
-                    <img src={qrCodeImg} alt="qrCode" className='rounded-2xl mt-8' />
+                    <img src={qrCode} alt="qrCode" className='rounded-2xl mt-8' />
                 </div>
 
             </div>
