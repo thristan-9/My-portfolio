@@ -17,8 +17,8 @@ function Home(props) {
                     </p>
 
                     <div>
-                        <Link to='portfolio' smooth duration={500} className='group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r cursor-pointer from-emerald-700 via-emerald-600 to-emerald-500'>
-                            Portfolio
+                        <Link to='experience' smooth duration={500} className='group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r cursor-pointer from-emerald-700 via-emerald-600 to-emerald-500'>
+                            Experience
                             <span className='group-hover:rotate-90 duration-300'>
                                 <MdOutlineKeyboardArrowRight className='ml-1' size={25} />
                             </span>

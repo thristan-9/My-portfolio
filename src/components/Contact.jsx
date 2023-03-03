@@ -6,7 +6,7 @@ function Contact() {
     return (
         <div name='contact' className='w-full h-screen bg-gradient-to-b from-black to-gray-800 text-white'>
 
-            <div className='flex flex-col p-4 justify-center max-w-screen-lg mx-auto h-full'>
+            <div className='flex flex-col justify-center max-w-screen-lg mx-auto h-full'>
                 <div className='p-8'>
                     <p className='text-4xl font-bold inline border-b-4 border-gray-500'>Contact</p>
                     <p className='py-6'>Click on the button or scan the qr code to talk with me on WhatsApp</p>

@@ -58,7 +58,6 @@ function Portfolio() {
                 }
             }
         })
-        console.log("portfolioList", portfolioList);
         setPortfolio(portfolioList);
     }
 
@@ -70,10 +69,11 @@ function Portfolio() {
                     <p className="text-4xl font-bold inline border-b-4 border-gray-500">
                         Portfolio
                     </p>
-                    <p className="py-6">Check out some of my work right here</p>
+                    {/* <p className="py-6">Check out some of my work right here</p> */}
+                    <p className="py-6">Building...</p>
                 </div>
 
-                <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
+                {/* <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
                     {portfolio.map(({ id, imageIndex, images, codeHref, demoHref }) => {
                         return (
                             <div key={id} className="flex items-center flex-col justify-between shadow-md shadow-gray-600 rounded-lg">
@@ -100,7 +100,7 @@ function Portfolio() {
                             </div>
                         )
                     })}
-                </div>
+                </div> */}
             </div>
         </div>
     );
