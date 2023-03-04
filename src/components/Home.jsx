@@ -12,8 +12,8 @@ function Home(props) {
                 <div className='flex flex-col justify-center h-full'>
                     <h2 className='text-4xl sm:text-7xl font-bold text-white'>I’m a Full Stack Developer</h2>
                     <p className='text-gray-500 py-4 max-w-md'>
-                        I have 4 years of experience building and designing web/mobile applications
-                        using technologies like React, React Native, Tailwind and Node.js.
+                        Hello! my name is Thristan Gabriel, I have 4 years of experience building and designing web applications
+                        using technologies like React, Tailwind and Node.js.
                     </p>
 
                     <div>
