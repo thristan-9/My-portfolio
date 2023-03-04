@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/My-portfolio/static/css/main.de516c00.css",
-    "main.js": "/My-portfolio/static/js/main.9db9ca17.js",
+    "main.css": "/My-portfolio/static/css/main.90667ba7.css",
+    "main.js": "/My-portfolio/static/js/main.8fb71f42.js",
     "static/media/mechanic_software.png": "/My-portfolio/static/media/mechanic_software.a5c9a41eacc62c0749de.png",
     "static/media/mechanic_software3.png": "/My-portfolio/static/media/mechanic_software3.dc147dc04023cbca6559.png",
     "static/media/mechanic_software2.png": "/My-portfolio/static/media/mechanic_software2.062d2c42d09b642197cb.png",
@@ -18,11 +18,11 @@
     "static/media/css.png": "/My-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/My-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/My-portfolio/index.html",
-    "main.de516c00.css.map": "/My-portfolio/static/css/main.de516c00.css.map",
-    "main.9db9ca17.js.map": "/My-portfolio/static/js/main.9db9ca17.js.map"
+    "main.90667ba7.css.map": "/My-portfolio/static/css/main.90667ba7.css.map",
+    "main.8fb71f42.js.map": "/My-portfolio/static/js/main.8fb71f42.js.map"
   },
   "entrypoints": [
-    "static/css/main.de516c00.css",
-    "static/js/main.9db9ca17.js"
+    "static/css/main.90667ba7.css",
+    "static/js/main.8fb71f42.js"
   ]
 }
